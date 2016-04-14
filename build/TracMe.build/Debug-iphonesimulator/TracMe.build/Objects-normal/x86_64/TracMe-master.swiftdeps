@@ -1,0 +1,12 @@
+version: "Apple Swift version 2.1.1 (swiftlang-700.1.101.15 clang-700.1.81)"
+options: "cc0ca93e443970ba822556e505cf4487"
+build_time: [513838607, 877821000]
+inputs:
+  "/Users/andreigurau/Downloads/TracMe-test-master/TracMe/TrackFriendViewController.swift": [513838606, 0]
+  "/Users/andreigurau/Downloads/TracMe-test-master/TracMe/ChooseUserViewController.swift": [513827690, 0]
+  "/Users/andreigurau/Downloads/TracMe-test-master/TracMe/AppDelegate.swift": [513804704, 0]
+  "/Users/andreigurau/Downloads/TracMe-test-master/TracMe/TrackerViewController.swift": [513837889, 0]
+  "/Users/andreigurau/Downloads/TracMe-test-master/TracMe/ChooseMapViewController.swift": [513804704, 0]
+  "/Users/andreigurau/Downloads/TracMe-test-master/TracMe/MyAnnotation.swift": [513804704, 0]
+  "/Users/andreigurau/Downloads/TracMe-test-master/TracMe/SignUpViewController.swift": [513804704, 0]
+  "/Users/andreigurau/Downloads/TracMe-test-master/TracMe/ViewController.swift": [513804704, 0]
